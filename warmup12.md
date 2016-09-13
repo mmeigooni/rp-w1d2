@@ -25,7 +25,7 @@
 4. The polynomial identities state that the following two equations are
    equivalent:
 
-   $${(a+b)^2 = a^2 + 2ab + b^2}$$
+   $${(a+b)^2 = a^2 + 2ab + b^2^}$$
 
    Write two functions called `lhs` and `rhs` (for left-hand side and right-hand
    side) to compute each half of the above equation. Do they produce the same
